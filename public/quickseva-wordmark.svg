@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 96" role="img" aria-labelledby="title">
+  <title id="title">QuickSeva</title>
+  <g transform="translate(4 4)">
+    <rect width="88" height="88" rx="25" fill="#e9efff"/>
+    <path d="M54 13 26 49h21l-8 26 29-39H47l7-23z" fill="#155eef"/>
+    <path d="M13 58h14M11 70h12" fill="none" stroke="#f59e0b" stroke-linecap="round" stroke-width="5"/>
+  </g>
+  <text x="108" y="65" font-family="Inter,Arial,sans-serif" font-size="53" font-weight="800" letter-spacing="-2">
+    <tspan fill="#155eef">Quick</tspan><tspan fill="#14213d">Seva</tspan>
+  </text>
+</svg>

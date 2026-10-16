@@ -1,0 +1,15 @@
+{
+  "id": "/",
+  "name": "QuickSeva — services made simpler",
+  "short_name": "QuickSeva",
+  "description": "Quick, clear guidance for preparing and tracking document-service applications from home.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f5f7fb",
+  "theme_color": "#155eef",
+  "icons": [
+    { "src": "/quickseva-mark.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

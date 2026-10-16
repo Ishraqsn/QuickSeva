@@ -1,0 +1,11 @@
+node_modules/
+.pnpm-store/
+dist/
+target/
+.idea/
+data/
+.env
+.env.*
+!.env.example
+uploads/
+*.log

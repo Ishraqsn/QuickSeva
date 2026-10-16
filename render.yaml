@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: quickseva
+    runtime: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    healthCheckPath: /api/services
+    envVars:
+      - key: DEMO_TOKEN_SECRET
+        generateValue: true

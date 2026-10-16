@@ -1,0 +1,11 @@
+.git
+.idea
+.pnpm-store
+node_modules
+dist
+backend/target
+data
+.env
+.env.*
+!.env.example
+*.log
